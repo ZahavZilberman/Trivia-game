@@ -5,6 +5,6 @@ expect with even more options (compared to Kahoot's free options) - for free - b
 
 Also, I've mastered the art of working with setting the cursor position, allowing for better and more realistic gameplay on most modes (for example: in the "Who am I" mode, the money left is no longer printed without removing the previous value from the screen).
 .. And all text is spoken in a text to speech style, so you can even add 1000 questions to the game and all text will still be played in audio mode, with the game not even weighting 3MB,
-Also mastered working with the NAudio and System.Speech assemblies.
+Also mastered working with the NAudio and System.Speech assemblies, and some of the game files were (both some of the text and the app's icon) were made with AI.
 
 It's still just a console app, thought, so of course I still don't expect anyone to download it. If you wanna see what it's like without risking installing viruses, feel free to ask me to make Youtube videos of me playing the game in the "issues" tab.
